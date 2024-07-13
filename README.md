@@ -7,8 +7,7 @@
 Built [Material Space](https://materialspace.co/).
 
 
-
-I specialize in integrating design and technical frameworks to help teams scale. With a solid background in architecture from the University of Tennessee, I leverage my expertise in graphic design, UI/UX, and development using technologies like Supabase, SvelteKit, and JavaScript.
+I help teams scale by integrating design and technical frameworks. With a background in architecture from the University of Tennessee, I specialize in graphic design, UI/UX, and development. My favorite tools include Supabase, SvelteKit, and Typescript.
 
 
 
