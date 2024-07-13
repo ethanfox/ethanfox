@@ -19,6 +19,7 @@ I help teams scale by integrating design and technical frameworks. With a backgr
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-%23FF3366.svg?style=flat&logo=adobe-indesign&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
 ![Svelte / SvelteKit](https://img.shields.io/badge/Svelte%20/%20SvelteKit-%23FF3E00.svg?style=flat&logo=svelte&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
