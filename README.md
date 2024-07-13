@@ -2,7 +2,7 @@
 
 ## A designer with a background in  👨🏼‍💻 Design, 🖥️ Code, & 🏛️ Architecture 
 
-Portfolio [Material Space](https://ethanjamesfox.com/).
+ [Portfolio](https://ethanjamesfox.com/).
 
 Built [Material Space](https://materialspace.co/).
 
